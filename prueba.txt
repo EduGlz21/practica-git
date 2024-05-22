@@ -1,3 +1,8 @@
--e "Hola\Hola\Adios\Aadios\como" 
--e "Línea 6\nLínea 7\nLínea 8" 
--e "Línea 6\nLínea 7\nLínea 8" 
+Hola
+Hola
+Hola3
+Hola4
+Hola5
+Hola6
+Hola7
+Hola8 
